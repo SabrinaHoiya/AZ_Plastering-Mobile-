@@ -1,2 +1,2 @@
 # AZ_Plastering-Mobile
-It was a mobile application for adding pictures from gallery.
+It was a mobile application to adding pictures from gallery.
